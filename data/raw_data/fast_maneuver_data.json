@@ -1,0 +1,36 @@
+{
+  "scenario": "Fast Maneuver",
+  "parameters": {
+    "speed": 20,
+    "altitude": 30,
+    "wind_speed": 8,
+    "motor_power": 80,
+    "propeller_speed": 6000
+  },
+  "vibration_data": [
+    {
+      "timestamp": 0.0,
+      "accelerometer_x": 0.5,
+      "accelerometer_y": 0.6,
+      "accelerometer_z": 0.7
+    },
+    {
+      "timestamp": 0.0001,
+      "accelerometer_x": 0.55,
+      "accelerometer_y": 0.65,
+      "accelerometer_z": 0.75
+    },
+    {
+      "timestamp": 0.0002,
+      "accelerometer_x": 0.52,
+      "accelerometer_y": 0.62,
+      "accelerometer_z": 0.72
+    },
+    {
+      "timestamp": 0.0003,
+      "accelerometer_x": 0.58,
+      "accelerometer_y": 0.68,
+      "accelerometer_z": 0.78
+    }
+  ]
+}

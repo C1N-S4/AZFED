@@ -1,0 +1,48 @@
+{
+  "scenario": "Unbalanced Load",
+  "parameters": {
+    "speed": 8,
+    "altitude": 40,
+    "wind_speed": 6,
+    "motor_power": 70,
+    "propeller_speed": 5500
+  },
+  "vibration_data": [
+    {
+      "timestamp": 0.0,
+      "accelerometer_x": 0.3,
+      "accelerometer_y": 0.4,
+      "accelerometer_z": 0.2
+    },
+    {
+      "timestamp": 0.0001,
+      "accelerometer_x": 0.35,
+      "accelerometer_y": 0.45,
+      "accelerometer_z": 0.25
+    },
+    {
+      "timestamp": 0.0002,
+      "accelerometer_x": 0.32,
+      "accelerometer_y": 0.42,
+      "accelerometer_z": 0.22
+    },
+    {
+      "timestamp": 0.0003,
+      "accelerometer_x": 0.38,
+      "accelerometer_y": 0.48,
+      "accelerometer_z": 0.28
+    },
+    {
+      "timestamp": 0.0004,
+      "accelerometer_x": 0.33,
+      "accelerometer_y": 0.43,
+      "accelerometer_z": 0.23
+    },
+    {
+      "timestamp": 0.0005,
+      "accelerometer_x": 0.37,
+      "accelerometer_y": 0.47,
+      "accelerometer_z": 0.27
+    }
+  ]
+}

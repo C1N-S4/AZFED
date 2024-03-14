@@ -1,0 +1,48 @@
+{
+  "scenario": "Low Battery",
+  "parameters": {
+    "speed": 5,
+    "altitude": 20,
+    "wind_speed": 3,
+    "motor_power": 40,
+    "propeller_speed": 4000
+  },
+  "vibration_data": [
+    {
+      "timestamp": 0.0,
+      "accelerometer_x": 0.2,
+      "accelerometer_y": 0.1,
+      "accelerometer_z": 0.3
+    },
+    {
+      "timestamp": 0.0001,
+      "accelerometer_x": 0.25,
+      "accelerometer_y": 0.15,
+      "accelerometer_z": 0.35
+    },
+    {
+      "timestamp": 0.0002,
+      "accelerometer_x": 0.22,
+      "accelerometer_y": 0.12,
+      "accelerometer_z": 0.32
+    },
+    {
+      "timestamp": 0.0003,
+      "accelerometer_x": 0.28,
+      "accelerometer_y": 0.18,
+      "accelerometer_z": 0.38
+    },
+    {
+      "timestamp": 0.0004,
+      "accelerometer_x": 0.23,
+      "accelerometer_y": 0.13,
+      "accelerometer_z": 0.33
+    },
+    {
+      "timestamp": 0.0005,
+      "accelerometer_x": 0.27,
+      "accelerometer_y": 0.17,
+      "accelerometer_z": 0.37
+    }
+  ]
+}
