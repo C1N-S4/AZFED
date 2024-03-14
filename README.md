@@ -21,7 +21,7 @@ AZFED (Adaptive Time-Frequency Energy Distribution) is a comprehensive algorithm
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/username/azfed-algorithm.git
+1. Clone the repository: git clone https://github.com/C1N-S4/azfed-algorithm.git
 2. Install the required libraries: pip install -r requirements.txt
 3. Run the algorithm with the example datasets: python main.py
 
